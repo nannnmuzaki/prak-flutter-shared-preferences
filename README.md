@@ -15,12 +15,6 @@ Aplikasi Task Manager sederhana yang dibangun menggunakan Flutter dengan fitur a
 
 <img src="screenshots_screenrecords/demo.gif" alt="app demo" height="600">
 
-1. Login Screen
-2. Dashboard Screen
-3. Tasks Screen
-4. Profile Screen
-5. Navigation Drawer
-
 ## Struktur Project
 
 ```
@@ -434,7 +428,7 @@ flutter run
 dependencies:
   flutter:
     sdk: flutter
-  shared_preferences: ^2.2.2
+  shared_preferences: ^2.5.3
 ```
 
 ## Catatan
